@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="text_bg">#B4B4B4</color>
+    <color name="text_non_bg">#2C2C2C</color>
+    <color name="hint">#929292</color>
+    <color name="uncheck_text">#7F2C2C2C</color>
+    <color name="background">#202020</color>
+    <color name="edittext_background">#E6202020</color>
+    <color name="uncheck_background">#80202020</color>
+    <color name="add">#626ED9</color>
+    <color name="remove">#C64444</color>
+    <color name="done">#ECBB5B</color>
+    <color name="undone">#7FECBB5B</color>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "883314264007",
+    "project_id": "minimal-to-do-list-be3bf",
+    "storage_bucket": "minimal-to-do-list-be3bf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883314264007:android:dcb46f3db40ac745d0fbe2",
+        "android_client_info": {
+          "package_name": "com.example.minimaltodolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWDIfcRa6rRrpn9zWzyziGLhJy6owaPeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

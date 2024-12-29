@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Minimal To Do List</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="already_text">Already have an account? <font color="#ECBB5B">Sign In</font></string>
+</resources>
